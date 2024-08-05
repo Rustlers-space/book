@@ -11,7 +11,7 @@ Example:
 
 ```rust
 fn main(){
-  let a: i34 = 5;
+  let a: i32 = 5;
   println!("{}", a);
 }
 
@@ -21,7 +21,7 @@ The variables are immutable by default, The following program will get errored a
 
 ```rust
 fn main(){
-  let a: i34 = 5;
+  let a: i32 = 5;
   println!("{}", a);
   a = 20;
   println!("{}", a);
@@ -32,7 +32,7 @@ In order to create a mutable variable we use a keyword mut inbetween the let and
 
 ```rust
 fn main(){
-  let mut a: i34 = 5;
+  let mut a: i32 = 5;
   println!("{}", a);
   a = 20;
   println!("{}", a);
