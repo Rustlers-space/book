@@ -1,0 +1,8 @@
+[book]
+authors = ["sudharsanan kirubanandhan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "rustlers"
+[preprocessor.rust]
+command = "mdbook-rust"
