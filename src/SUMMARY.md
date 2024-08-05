@@ -1,5 +1,7 @@
 # Summary
 
 - [Introduction to Rustlers](./rustlers.md)
-- [Hello World](./Helloworld.md)
-- [Variables](./Variables.md)
+- [Basics]()
+
+  - [Hello World](./basics/hello_world.md)
+  - [Variables](./basics/variables.md)
