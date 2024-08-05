@@ -10,6 +10,3 @@ People involved in creating this book are
 
 * Ghanithan Subramani, Principal Engineer, Astra Technologies
 * Sudharsanan Kirubanandhan, Founder and Dev Coach, Dall.academy
-* Ovia Seshadri, Devrel, OKTO wallet, Coindcx
-* Gyanlakshmi, Devrel, Starknet
-* Vishal Pokuri, Community lead, TPG chennai chapter
