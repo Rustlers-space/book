@@ -1,7 +1,7 @@
 # Variables
 
 In Rust, we use **let** keyword
-To declare a variable a following syntax is used
+To declare a variable, the following syntax is used
 
 ```rust
 let variableName : dataType = value;
@@ -17,7 +17,7 @@ fn main(){
 
 ```
 
-The variables are immutable by default, The following program will get errored as we try to set value on the immutable variable
+The variables are immutable by default, The following program will get errored as we try to set value on the immutable variable a.
 
 ```rust
 fn main(){
@@ -28,7 +28,7 @@ fn main(){
 }
 ```
 
-In order to create a mutable variable we use a keyword mut inbetween the let and variable name
+In order to create a mutable variable, we use a keyword mut inbetween the let and variable name
 
 ```rust
 fn main(){
