@@ -2,8 +2,8 @@
 
 - [Introduction to Rustlers](./rustlers.md)
 - [Basics]()
-  - [Hello World](./Basics/hello_world.md)
-  - [Variables](./Basics/variables.md)
+  - [Hello World](./Basics/Helloworld.md)
+  - [Variables](./Basics/Variables.md)
   - [Datatypes and Operators]()
 
     + [Declaration](./Basics/Datatypes/Declare.md)
