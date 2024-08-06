@@ -2,15 +2,15 @@
 
 - [Introduction to Rustlers](./rustlers.md)
 - [Basics]()
-
-  - [Hello World](./basics/hello_world.md)
-  - [Variables](./basics/variables.md)
+  - [Hello World](./Basics/hello_world.md)
+  - [Variables](./Basics/variables.md)
   - [Datatypes and Operators]()
-    + [Declaration](./basics/Datatypes/Declare.md)
+
+    + [Declaration](./Basics/Datatypes/Declare.md)
     + [Types]()
       + [Scalar]()
-        + [Integer](./basics/Datatypes/Types/integer.md)
-        + [Unsigned Integer](./basics/Datatypes/Scalar/UnsignedInteger.md)
+        + [Integer](./Basics/Datatypes/Types/integer.md)
+        + [Unsigned Integer](./Basics/Datatypes/Scalar/UnsignedInteger.md)
         + [Boolean](./Basics/Datatypes/Types/Scalar/Boolean.md)
         + [Float](./Basics/Datatypes/Types/Scalar/Float.md)
         + [Character](./Basics/Datatypes/Types/Scalar/Character.md)
@@ -20,6 +20,7 @@
   - [Functions](./Basics/Functions.md)
   - [Comments](./Basics/Comments.md)
   - [ControlStructures]()
+
     + [ifelse](./Basics/Controlstructures/ifelse.md)
     + [Loops]()
       + [Loop](./Basics/Controlstructurs/Loops/loop.md)
@@ -27,6 +28,7 @@
       + [For](./Basics/Controlstructurs/Loops/For.md)
     + [Match](./Basics/Controlstructurs/Match/Match.md)
   - [CustomTypes]()
+
     + [Enum]()
       + [Definition](./Basics/CustomTypes/Enum/Definition.md)
       + [Option Enum](./Basics/CustomTypes/Enum/Option.md)
@@ -35,15 +37,18 @@
       + [Definition](./Basics/CustomTypes/Struct/Definition.md)
       + [Implementation](./Basics/CustomTypes/Enum/Implementation.md)
   - [Memory Management]()
+
     + [Ownership](./Basics/MemoryManagement/Ownership.md)
     + [Borrowing](./Basics/MemoryManagement/Borrowing.md)
     + [Slice](./Basics/MemoryManagement/Slice.md)
   - [Package Management]()
+
     + [Cargo Package Manager](./Basics/PackageManagement/Cargo.md)
     + [Modules](./Basics/PackageManagement/Modules.md)
     + [Use keyword](./Basics/PackageManagement/UseKeyword.md)
     + [Multifiles](./Basics/PackageManagement/Multifiles.md)
   - [Collection]()
+
     + [String](./Basics/Collection/String.md)
     + [Vectors](./Basics/Collection/Vectors.md)
     + [Hashmap](./Basics/Collection/Hashmap.md)
